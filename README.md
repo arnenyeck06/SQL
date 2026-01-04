@@ -1,13 +1,64 @@
-This repository contains SQL commands in ORACLE database. 
+### SQL Practice & Database Projects
 
-Use of AGGREGATE FUNCTION to analyze various aspects of the books in the database.
+This repository contains a collection of SQL scripts and database exercises demonstrating my experience with querying, data analysis, and database objects using real-world datasets.
 
-I create a dataset from a bike store database using SQL. This will involve querying the database to extract specific information related to bike sales and related data. I built a dataset that can be used for analysis and visualization purposes. I extract insights into the performance of the bike store, identify trends and patterns in sales data, and inform future business decisions.
+The focus is on writing clean, efficient SQL and working with relational database concepts such as aggregations, joins, stored procedures, and schema creation.
 
-I also showcase how to create tables, insert values, and stored procedure.
+---
+### Repository structure
+```bash
+| File / Folder                                   | Description                                                                                                |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `Aggregate_functions.sql`                       | SQL queries demonstrating aggregate functions such as `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, and `GROUP BY`. |
+| `BikeStore_queries.sql`                         | Queries based on a Bike Store dataset, focusing on joins, filtering, and business-style analysis.          |
+| `Covid19_queries.sql`                           | Analytical SQL queries exploring COVID-19 data (cases, trends, aggregations).                              |
+| `Stored_procedures.sql`                         | Examples of stored procedures for reusable and parameterized SQL logic.                                    |
+| `ORACLE_DB-CREATE_tables_and_INSERTS_SQL.ipynb` | Jupyter Notebook showing table creation and data insertion using Oracle SQL.                               |
+| `ORACLE_DB-SQL_commands.sql`                    | Core Oracle SQL commands and database operations.                                                          |
 
+```
 
+---
+### Skills demonstrated.
 
+SQL querying and data analysis
 
- Feel free to reach out on linkedin: 
-https://www.linkedin.com/in/arne-nyeck-nyeck-539369ba/
+Joins (INNER, LEFT, RIGHT)
+
+Aggregate functions and grouping
+
+Subqueries and filtering
+
+Stored procedures
+
+Table creation and data insertion
+
+Oracle SQL fundamentals
+
+---
+
+### Databases & Tools
+
+SQL
+
+Oracle Database
+
+Jupyter Notebook (for SQL execution and documentation)
+
+---
+
+This repository serves as:
+
+A practice space for improving SQL skills
+
+A portfolio reference demonstrating hands-on database work
+
+A foundation for more advanced data engineering and analytics projects
+
+---
+
+👤 Author
+
+Arne Nyeck
+GitHub: arnenyeck06
+
