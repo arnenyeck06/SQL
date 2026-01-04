@@ -6,7 +6,8 @@ The focus is on writing clean, efficient SQL and working with relational databas
 
 ---
 ### Repository structure
-```bash
+
+
 | File / Folder                                   | Description                                                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | `Aggregate_functions.sql`                       | SQL queries demonstrating aggregate functions such as `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, and `GROUP BY`. |
@@ -16,7 +17,7 @@ The focus is on writing clean, efficient SQL and working with relational databas
 | `ORACLE_DB-CREATE_tables_and_INSERTS_SQL.ipynb` | Jupyter Notebook showing table creation and data insertion using Oracle SQL.                               |
 | `ORACLE_DB-SQL_commands.sql`                    | Core Oracle SQL commands and database operations.                                                          |
 
-```
+
 
 ---
 ### Skills demonstrated.
